@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "name": "ini Test hard delete ",
+    "description": "Succesfully delete!!",
+    "category": "Deleted",
+    "stock": 1,
+    "createdAt": "2026-03-04T10:00:00.000Z",
+    "updatedAt": null,
+    "deletedAt": "2026-03-04T13:53:27.832Z"
+  },
+  {
+    "id": 3,
+    "name": "Epson Projector",
+    "description": "Full HD meeting room projector",
+    "category": "Electronics",
+    "stock": 2,
+    "createdAt": "2026-03-04T10:00:00.000Z",
+    "updatedAt": null,
+    "deletedAt": null
+  },
+  {
+    "id": 3,
+    "name": "Ini test server localhost:8000",
+    "description": "lorem ipsum",
+    "category": "hanya test POST",
+    "stock": 100,
+    "createdAt": "2026-03-04T04:48:45.212Z",
+    "updatedAt": null,
+    "deletedAt": null
+  },
+  {
+    "id": 4,
+    "name": "Ini test server localhost:8000",
+    "description": "lorem ipsum",
+    "category": "hanya test POST",
+    "stock": 100,
+    "createdAt": "2026-03-04T04:57:42.712Z",
+    "updatedAt": null,
+    "deletedAt": null
+  },
+  {
+    "id": 5,
+    "name": "Nama Terupdate",
+    "description": "second lorem test",
+    "category": "second testing POST",
+    "stock": 50,
+    "createdAt": "2026-03-04T04:58:47.234Z",
+    "updatedAt": "2026-03-04T13:59:27.402Z",
+    "deletedAt": null
+  },
+  {
+    "id": 6,
+    "name": "Barang Baru Auto Inc",
+    "description": "Mengetes ID baru",
+    "category": "Test",
+    "stock": 10,
+    "createdAt": "2026-03-04T13:51:44.501Z",
+    "updatedAt": null,
+    "deletedAt": "2026-03-04T14:02:58.688Z"
+  },
+  {
+    "id": "7",
+    "name": "test untuk POST",
+    "description": "lorem",
+    "category": "testing",
+    "stock": 43958,
+    "createdAt": "2026-03-04T14:08:38.592Z",
+    "updatedAt": null,
+    "deletedAt": null
+  }
+]
